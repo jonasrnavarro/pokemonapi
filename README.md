@@ -21,8 +21,8 @@ Endpoints:
  Sample: http://localhost:8080/pokemon/wooper
  Sample response: {"id":194,"name":"wooper","types":["water","ground"],"moves":["ice-punch","slam","double-kick","headbutt"]}
 2. Fetch Pokemon by ID:
- URL: http://localhost:8080/pokemon/id/{id}
- Sample: http://localhost:8080/pokemon/id/120
+ URL: http://localhost:8080/pokemon/{id}
+ Sample: http://localhost:8080/pokemon/120
  Sample response: {"id":120,"name":"staryu","types":["water"],"moves":["headbutt","tackle","take-down","double-edge"]}
 
 Thanks
