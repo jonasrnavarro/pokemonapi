@@ -3,7 +3,7 @@ Name: Jonas Reuben V. Navarro
 API Instruction Guide:
 
 Step 1: Clone the repository
- 1. git clone https://github.com/jonasrnavarro/ewb-pokemon-api.git
+ 1. git clone https://github.com/jonasrnavarro/pokemonapi.git
  2. cd pokemonapi
  
 Step 2: Import the Project into IntelliJ
